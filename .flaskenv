@@ -1,1 +1,1 @@
-muestra = conectado
+muestra = conectando
